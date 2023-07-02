@@ -1,4 +1,4 @@
-# Alim Aliev
+# Alim Aliev.
 # Discord @n0rii
 ## Learn this course just for fun.
 ## HTML-CSS, Python
