@@ -4,5 +4,5 @@
 ## HTML-CSS, Python
 ## print("Hello world!")
 ### None
-### Some free curses and IT STEP
+### Some free curses and IT STEP :)
 #### lvl B1
