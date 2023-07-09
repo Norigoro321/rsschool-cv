@@ -1,1 +1,114 @@
+h1 {
+    color: #26532B;
+    padding: 20px 75px 30px 75px;
+    text-align: center;
+    font-size: 71px;
+}
 
+#menu {
+    text-align: center;
+    opacity: 0.9;
+    padding-bottom: 15px;
+    font-size: 25px;
+
+}
+
+#menu li {
+    padding: 10px;
+    list-style: none;
+    padding-right: 35px;
+    display: inline;
+}
+
+#menu a {
+    color: #399E5A;
+    text-decoration: none;
+}
+
+#name,
+#contacts,
+#about,
+#skills,
+#code,
+#work,
+#edu,
+#eng {
+    background-color: rgb(206, 206, 191);
+    height: 260px;
+    left: 50%;
+    margin: auto;
+    width: 80%;
+    color: #26532B;
+    border-radius: 25px;
+}
+
+#skills {
+    height: 275px;
+}
+
+.inf {
+    left: 2%;
+    bottom: -12%;
+    position: relative;
+}
+
+#contacts img {
+    left: 80%;
+    top: -11%;
+    position: absolute;
+    display: flex;
+}
+
+#name img {
+    left: 81%;
+    top: -2%;
+    position: absolute;
+    display: flex;
+}
+
+#logors {
+    left: 80%;
+    bottom: 30%;
+    position: relative;
+    display: flex;
+}
+
+#git {
+    left: 65%;
+    bottom: 152%;
+    position: relative;
+    display: flex;
+}
+
+footer div {
+    left: 5%;
+    bottom: -110%;
+    position: relative;
+    font-size: 24px;
+}
+
+header {
+    height: 290px;
+    background-color: beige;
+}
+
+main {
+    background-color: beige;
+}
+
+footer {
+    position: relative;
+    margin: 0;
+    padding: 0;
+    background-color: beige;
+    height: 100px;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: beige;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
